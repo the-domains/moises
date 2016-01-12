@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8340493
   brandStrength: 0.8684211
   lightness: 0.8899033
   brandColors:
-    - '#F4FAFC'
-    - '#1F0301'
-    - '#4A4A4C'
-    - '#9A9A9B'
-    - '#8F4AE0'
+    - '#55211D'
+    - '#A39A77'
+    - '#FFFFFC'
+    - '#FFA3FA'
+    - '#A3CFFF'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Moises
 favicon: null
+name: Moises
 opengraph:
   image: null
   type: null
