@@ -1,0 +1,28 @@
+name: Moises
+favicon: null
+layout_spectrum: 0.31206077174283564
+typography_spectrum: 0.4277495329733938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.07725318730808794
+  lightness: 0.5256108951289207
+  saturation: 0.3879553347360343
+  rhythmicContrast: 0.2429995583370328
+purpose: []
