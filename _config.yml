@@ -1,5 +1,8 @@
+name: Moises
+favicon: null
+layout_spectrum: 0.71704
+typography_spectrum: 0.8426423
 title: Inspired Living
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8340493
-  brandStrength: 0.8684211
-  lightness: 0.8899033
   brandColors:
     - '#55211D'
     - '#A39A77'
     - '#FFFFFC'
     - '#FFA3FA'
     - '#A3CFFF'
+  brandStrength: 0.8684211
+  lightness: 0.8899033
+  saturation: 0.8340493
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Moises
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8426423
-layout_spectrum: 0.9672395
+purpose: []
