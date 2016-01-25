@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Inspired Living]]></title>
         <description><![CDATA[Inspired Living]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:26:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 19:19:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a97ea36-2d96-4335-b6c1-73c0a481e938.jpg">]]></description>
-            <link>undefined051c555f-2566-4a93-ab37-c215ad24a263/index.html</link>
+            <link>https://thegrid.ai/moises/051c555f-2566-4a93-ab37-c215ad24a263/index.html</link>
             <guid isPermaLink="false">051c555f-2566-4a93-ab37-c215ad24a263</guid>
             <pubDate>Mon, 18 Jan 2016 20:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>#thatpinkdoor is all the rage!  </p>]]></description>
+            <link>https://thegrid.ai/moises/7d0e4038-56c8-4ab0-9483-3e47402d1b89/index.html</link>
+            <guid isPermaLink="false">7d0e4038-56c8-4ab0-9483-3e47402d1b89</guid>
+            <pubDate>Mon, 25 Jan 2016 19:19:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
